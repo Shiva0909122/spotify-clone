@@ -1,5 +1,6 @@
 {
   "name": "spotify-clone",
+  "homepage": "https://spotify-clone-x1w8.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +13,7 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "sass": "^1.83.4",
+    "vercel": "^39.3.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
