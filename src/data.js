@@ -70,12 +70,12 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Sunset Dreams",
+      name: "Day Dreams",
       cover:
-        "https://images.pexels.com/photos/14996824/pexels-photo-14996824/free-photo-of-man-in-black-hoodie-with-skateboard-at-night.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/20427521/pexels-photo-20427521/free-photo-of-woman-in-black-coat-walking-by-house-in-village.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
       artist: " Harmony Harp",
       audio:
-        "https://drive.google.com/file/d/1bxeSINYVwxqMLlgb48R__alJhi-P5msY/view?usp=sharing",
+        "https://codeskulptor-demos.commondatastorage.googleapis.com/pang/paza-moduless.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
